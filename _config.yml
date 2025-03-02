@@ -1,14 +1,15 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: My Diary
+bio: "Hi, Yuzu Here"
+description: ""
 reading_time: true
 words_per_minute: 200
-logo: "assets/img/logo.png"
-background: "assets/img/moonrise-background.jpg"
-tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
+logo: "https://cdn.bsky.app/img/avatar/plain/did:plc:dqskton7sq7xu7nedb36ff7e/bafkreid4j6ca5x4ls3fiqfy45fbosxrehmazlppehnsee6vns6xan6dx4u@jpeg"
+background: "https://i.pinimg.com/736x/65/4a/16/654a167e32131018099f04985b6e5104.jpg"
+tiled_bg: true # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
-url: https://TolgaTatli.github.io/Moonrise
+url: "https://yuko0x0.github.io/MyDiary"
+
 
 # Jekyll
 permalink: /:title/
@@ -37,19 +38,19 @@ sass:
 #ad-slot:
 #bing-verify:
 #email:
-twitter: username
-facebook: username
-github-url: username
+#twitter: username
+#facebook: username
+#github-url: username
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username
-instagram: username
+#instagram: username
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: username
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
